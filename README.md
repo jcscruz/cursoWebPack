@@ -1,5 +1,7 @@
 # Curso WebPack
 
+Nível: Intermediário Carga Horária 20h Data do Início: 02/09/2020 Data do Término: 08/09/2020
+
 Carga Horária: 8hrs
 
 Aulas
